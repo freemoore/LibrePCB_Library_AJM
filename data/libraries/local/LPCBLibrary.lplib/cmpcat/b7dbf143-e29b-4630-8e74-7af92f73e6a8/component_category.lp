@@ -1,0 +1,10 @@
+(librepcb_component_category b7dbf143-e29b-4630-8e74-7af92f73e6a8
+ (name "GenericModuleFromAmazonEtc")
+ (description "component modules e.g.\nmax485\nlm2596 buck dc-dc converter\nxl6009 boost dc-dc converter\nmosfet module\ncurrent sensor module\nrelay module")
+ (keywords "max485, lm2596, xl6009, buck, boost, converter, dc-dc, mosfet, relay")
+ (author "Andy Moore")
+ (version "0.1")
+ (created 2024-10-23T17:58:36Z)
+ (deprecated false)
+ (parent 213bd44f-f375-41d8-8fdd-0652eb893e27)
+)

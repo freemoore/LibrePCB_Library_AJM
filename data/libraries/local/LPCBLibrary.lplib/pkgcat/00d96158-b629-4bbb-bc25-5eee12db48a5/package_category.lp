@@ -1,0 +1,10 @@
+(librepcb_package_category 00d96158-b629-4bbb-bc25-5eee12db48a5
+ (name "Phoenix Contact Terminal Block")
+ (description "Phoenix Contact terminal block")
+ (keywords "Phoenix Contact, terminal block")
+ (author "Andy Moore")
+ (version "0.1")
+ (created 2024-10-25T15:41:00Z)
+ (deprecated false)
+ (parent b724b55e-0f80-4cf3-aa9f-e2a87e02bd19)
+)

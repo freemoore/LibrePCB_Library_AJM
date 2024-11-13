@@ -1,0 +1,11 @@
+(librepcb_library 8c2e3213-7ed6-4a04-ae97-a71814aa4416
+ (name "My Library")
+ (description "")
+ (keywords "")
+ (author "Andy Moore")
+ (version "0.1")
+ (created 2024-10-25T13:03:54Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

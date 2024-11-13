@@ -1,0 +1,10 @@
+(librepcb_package_category 54c4f44a-89ac-432f-b926-4a3cc0b0283b
+ (name "GenericModuleFromAmazon")
+ (description "")
+ (keywords "")
+ (author "Andy Moore")
+ (version "0.1")
+ (created 2024-10-23T18:57:27Z)
+ (deprecated false)
+ (parent 1d2630f1-c375-49f0-a0dc-2446735d82f4)
+)

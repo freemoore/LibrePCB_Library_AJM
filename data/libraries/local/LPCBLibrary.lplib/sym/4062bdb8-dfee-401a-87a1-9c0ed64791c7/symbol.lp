@@ -1,0 +1,11 @@
+(librepcb_symbol 4062bdb8-dfee-401a-87a1-9c0ed64791c7
+ (name "DUAL DIFFERENTIAL LINE DRIVER")
+ (description "DUAL DIFFERENTIAL LINE DRIVER")
+ (keywords "DUAL, DIFFERENTIAL, LINE DRIVER")
+ (author "freemoore")
+ (version "0.1")
+ (created 2024-11-12T18:13:04Z)
+ (deprecated false)
+ (generated_by "")
+ (category f7f9bc34-7966-4af4-8cd4-4b8101e0823a)
+)
